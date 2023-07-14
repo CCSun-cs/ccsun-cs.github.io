@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Illinois Institute of Technology</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.iit.edu/'>Illinois Institute of Technology</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
